@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a `Internship opportunity`, this is [[MY RESUME](https://github.com/Prithvi-CyberSec/Prithvi-CyberSec/blob/main/Prithvi_Sharma_CV.pdf).
+- :thinking: I’m currently open for a `Internship opportunity`, this is [MY RESUME](https://github.com/Prithvi-CyberSec/Prithvi-CyberSec/blob/main/Prithvi_Sharma_CV.pdf).
 - :boom: You can visit MY WEBSITE.
 <br>
 
